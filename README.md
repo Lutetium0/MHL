@@ -7,7 +7,7 @@
 
 # QuickStart
 
-客户端：使用Unity打开Client文件夹下的项目后运行即可
+客户端：使用Unity打开Client文件夹下的项目后运行Assets/ProjectDir/文件夹下的GameLauncher场景
 
 服务器：服务器文件夹内容与MoonDemo下的server文件夹内容一致，具体编译及启动流程参考https://github.com/sniper00/MoonDemo
 
