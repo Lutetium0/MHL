@@ -14,14 +14,14 @@
 已验证过的前后端环境：
 
 客户端环境：
-系统：Windows11
-Unity客户端版本：2021.3.24f1
+- 系统：Windows11
+- Unity客户端版本：2021.3.24f1
 
 服务器环境：
-系统：Ubuntu 20.04.1
-gcc编译器版本：9.4.0
-redis server：5.0.7
-mysql：5.7（10.3.38-MariaDB）
+- 系统：Ubuntu 20.04.1
+- gcc编译器版本：9.4.0
+- redis server：5.0.7
+- mysql：5.7（10.3.38-MariaDB）
 
 # Dependencies
 
