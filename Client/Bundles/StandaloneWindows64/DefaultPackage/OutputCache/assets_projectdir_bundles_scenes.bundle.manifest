@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2328662148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91153d1400ff38b3daf682ccccf4c004
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 865202b650108322254416a7b8400452
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ProjectDir/Bundles/Scenes/Lobby.unity
+- Assets/ProjectDir/Bundles/Scenes/Login.unity
+- Assets/ProjectDir/Bundles/Scenes/Game.unity
+Dependencies:
+- D:/UnityProjects/ProjectMHL/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/assets_projectdir_bundles_textures.bundle

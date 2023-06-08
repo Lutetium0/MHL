@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+*.db
+*.opendb
+*.dll
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.exe
+*.obj
+*.log
+*.tlog
+*.idb
+.vs/
+.vscode/
+build/bin/
+build/obj/
+exmaple/log/
+test/twitter-out.json
+

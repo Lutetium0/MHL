@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1315008774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f44b05001ec93b0baf1ba0b090b18a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_2.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_3.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_2.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_5.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_1.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_5.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_6.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_3.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_4.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_5.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_4.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_4.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_1.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_1.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_6.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_6.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/Atlas_Bean.spriteatlas
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_2.png
+- Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_3.png
+Dependencies: []

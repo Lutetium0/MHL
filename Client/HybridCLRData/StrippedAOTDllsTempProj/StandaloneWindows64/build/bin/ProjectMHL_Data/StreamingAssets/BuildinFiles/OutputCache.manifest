@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1190951187
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_projectdir_bundles_atlas_atlas_bean.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_projectdir_bundles_lubangenconfigdata.bundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_projectdir_bundles_prefabs.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_projectdir_bundles_scenes.bundle
+      Dependencies:
+        Dependency_0: assets_projectdir_bundles_textures.bundle
+    Info_4:
+      Name: assets_projectdir_bundles_textures.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets_projectdir_bundles_textures_common.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_projectdir_bundles_uiwindows_uigamewindow.bundle
+      Dependencies: {}
+    Info_7:
+      Name: assets_projectdir_bundles_uiwindows_uiloadingwindow.bundle
+      Dependencies: {}
+    Info_8:
+      Name: assets_projectdir_bundles_uiwindows_uilobbywindow.bundle
+      Dependencies: {}
+    Info_9:
+      Name: assets_projectdir_bundles_uiwindows_uiloginwindow.bundle
+      Dependencies: {}
+    Info_10:
+      Name: assets_projectdir_bundles_uiwindows_uimatchwaitwindow.bundle
+      Dependencies: {}
+    Info_11:
+      Name: assets_projectdir_bundles_uiwindows.bundle
+      Dependencies: {}

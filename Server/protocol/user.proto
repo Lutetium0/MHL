@@ -1,0 +1,52 @@
+syntax = "proto3";
+option csharp_namespace = "NetMessage";
+import "common.proto";
+
+message S2CErrorCode
+{
+    int32 code = 1;//错误码
+}
+
+message C2SLogin
+{
+    string openid = 1;//openid
+}
+
+message S2CLogin
+{
+    bool ok = 1; //是否登录成功
+    int64 time = 2; //服务器当前时间ms
+    int64 timezone = 3; //服务器当前时区
+}
+
+//请求到道具列表
+message C2SItemList
+{
+
+}
+
+message S2CItemList
+{
+    map<int32,ItemData> list = 11;//道具列表
+}
+
+message C2SUseItem
+{
+    int32 id = 1;
+    int64 count = 2;
+}
+
+message S2CUpdateItem
+{
+    repeated ItemData list = 1;
+}
+
+message C2SHello
+{
+    string hello = 1;
+}
+
+message S2CWorld
+{
+    string world = 1;
+}

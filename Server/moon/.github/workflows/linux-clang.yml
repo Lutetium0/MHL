@@ -1,0 +1,38 @@
+# Workflow's name
+name: linux-clang
+
+# Run this workflow every time a new commit pushed to your repository
+on: [push, pull_request]
+
+jobs:
+  linux-clang:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup premake
+        uses: abel0b/setup-premake@v2.2
+        with:
+          version: "5.0.0-beta1"
+      - name: Build
+        run: |
+          premake5 gmake --cc=clang
+          make -j2 config=release
+      - name: Test
+        run: chmod +x moon && ./moon test/main_test.lua
+      # - name: Publish
+      #   run: |
+      #     mkdir publish
+      #     cp -r lualib publish/
+      #     cp -r service publish/
+      #     cp -r example publish/
+      #     cp moon publish/
+      #     cd publish
+      #     tar -zcvf linux-amd64.tar.gz ./*
+      # - name: Release
+      #   uses: softprops/action-gh-release@v1
+      #   if: startsWith(github.ref, 'refs/tags/')
+      #   with:
+      #     files: publish/linux-amd64.tar.gz
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

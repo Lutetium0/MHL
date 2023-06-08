@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Bean
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d2e2b85b5c3cd7647b8556d4c8475c6e, type: 3}
+    - {fileID: 2800000, guid: e364a805dfa52eb47a52843c15e35006, type: 3}
+    - {fileID: 2800000, guid: 76d07d375957c74448566a3c59f11c14, type: 3}
+    - {fileID: 2800000, guid: 6208adc87a4b4f84d92490f5641f85d4, type: 3}
+    - {fileID: 2800000, guid: 972ec8844a8ccb742829895767f870cb, type: 3}
+    - {fileID: 2800000, guid: 6a1fc0c0d67e2a144819536d46111e53, type: 3}
+    - {fileID: 2800000, guid: e7c38c98ad29faf4abb97ada279e0a66, type: 3}
+    - {fileID: 2800000, guid: e95bb6759521b3f4fbc36f323d06a48b, type: 3}
+    - {fileID: 2800000, guid: a137784c1878ee443bd927fec539f51f, type: 3}
+    - {fileID: 2800000, guid: 5c3fe028d310c59498b73cbb39c451bc, type: 3}
+    - {fileID: 2800000, guid: f9d95e5e28431624887136f0a6c2af9b, type: 3}
+    - {fileID: 2800000, guid: 7b815c8778997134ab751ef904ac8abe, type: 3}
+    - {fileID: 2800000, guid: 89e3eff69db17fd4e9a3889a4b4b49d7, type: 3}
+    - {fileID: 2800000, guid: 9fac6c865f28b9849865ebf74ef3f6e2, type: 3}
+    - {fileID: 2800000, guid: ed561ed2ed8246f4394fa6234a65a2af, type: 3}
+    - {fileID: 2800000, guid: 18008825a4c9c834e8ab29c4d3a7a335, type: 3}
+    - {fileID: 2800000, guid: 7c51ae1668b9abe4fa11decf46ea44ad, type: 3}
+    - {fileID: 2800000, guid: 85d38c3a52d4e3141a3805ff1302fdd0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6a1fc0c0d67e2a144819536d46111e53, type: 3}
+  - {fileID: 21300000, guid: ed561ed2ed8246f4394fa6234a65a2af, type: 3}
+  - {fileID: 21300000, guid: 972ec8844a8ccb742829895767f870cb, type: 3}
+  - {fileID: 21300000, guid: e364a805dfa52eb47a52843c15e35006, type: 3}
+  - {fileID: 21300000, guid: 18008825a4c9c834e8ab29c4d3a7a335, type: 3}
+  - {fileID: 21300000, guid: e95bb6759521b3f4fbc36f323d06a48b, type: 3}
+  - {fileID: 21300000, guid: 7c51ae1668b9abe4fa11decf46ea44ad, type: 3}
+  - {fileID: 21300000, guid: 9fac6c865f28b9849865ebf74ef3f6e2, type: 3}
+  - {fileID: 21300000, guid: 89e3eff69db17fd4e9a3889a4b4b49d7, type: 3}
+  - {fileID: 21300000, guid: 76d07d375957c74448566a3c59f11c14, type: 3}
+  - {fileID: 21300000, guid: 7b815c8778997134ab751ef904ac8abe, type: 3}
+  - {fileID: 21300000, guid: 5c3fe028d310c59498b73cbb39c451bc, type: 3}
+  - {fileID: 21300000, guid: e7c38c98ad29faf4abb97ada279e0a66, type: 3}
+  - {fileID: 21300000, guid: 6208adc87a4b4f84d92490f5641f85d4, type: 3}
+  - {fileID: 21300000, guid: 85d38c3a52d4e3141a3805ff1302fdd0, type: 3}
+  - {fileID: 21300000, guid: d2e2b85b5c3cd7647b8556d4c8475c6e, type: 3}
+  - {fileID: 21300000, guid: a137784c1878ee443bd927fec539f51f, type: 3}
+  - {fileID: 21300000, guid: f9d95e5e28431624887136f0a6c2af9b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bean_polygon3_6
+  - bean_polygon5_3
+  - bean_polygon3_5
+  - bean_polygon3_2
+  - bean_polygon5_4
+  - bean_polygon4_2
+  - bean_polygon5_5
+  - bean_polygon5_2
+  - bean_polygon5_1
+  - bean_polygon3_3
+  - bean_polygon4_6
+  - bean_polygon4_4
+  - bean_polygon4_1
+  - bean_polygon3_4
+  - bean_polygon5_6
+  - bean_polygon3_1
+  - bean_polygon4_3
+  - bean_polygon4_5
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Bean
+  m_IsVariant: 0

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 581338680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8933015984df2465883ef7f5f0a9a1b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ProjectDir/Bundles/LubanGenConfigData/configworldcontainer.json
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4098657207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eef8117f19d591b1d3645669e733dbc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 534a5d5f585c4e7a49a6c1a3a695f37c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ProjectDir/Bundles/UIWindows/UIRoot.prefab
+Dependencies: []

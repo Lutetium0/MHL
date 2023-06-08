@@ -1,0 +1,373 @@
+{
+    "FileVersion": "1.4.6",
+    "EnableAddressable": false,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2023-06-08-879",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/Atlas_Bean.spriteatlas",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_1.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_2.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_3.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_4.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_5.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon3_6.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_1.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_2.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_3.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_4.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_5.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon4_6.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_1.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_2.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_3.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_4.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_5.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Atlas/Atlas_Bean/bean_polygon5_6.png",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/LubanGenConfigData/configworldcontainer.json",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Prefabs/Food.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Prefabs/Player.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Prefabs/TextName.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Scenes/Game.unity",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": [
+                4
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Scenes/Lobby.unity",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Scenes/Login.unity",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Textures/bg.png",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/Textures/Common/touming.jpg",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/UIWindows/UIGameWindow/UIGameWindow.prefab",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/UIWindows/UILoadingWindow/UILoadingWindow.prefab",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/UIWindows/UILobbyWindow/UILobbyWindow.prefab",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/UIWindows/UILoginWindow/UILoginWindow.prefab",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/UIWindows/UIMatchWaitWindow/UIMatchWaitWindow.prefab",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ProjectDir/Bundles/UIWindows/UIRoot.prefab",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_projectdir_bundles_atlas_atlas_bean.bundle",
+            "FileHash": "d4f9c55f2ca463eed1eed849f208728e",
+            "FileCRC": "c1dd8f7a",
+            "FileSize": 12646,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_lubangenconfigdata.bundle",
+            "FileHash": "01f07284f7bba71d150fcc6fbf279307",
+            "FileCRC": "3c68f09c",
+            "FileSize": 1229,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_prefabs.bundle",
+            "FileHash": "ebee2654c52f2b35a243de8399c916ca",
+            "FileCRC": "139a046a",
+            "FileSize": 6104,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_scenes.bundle",
+            "FileHash": "9c30b85508f3dc6a602d090d20b6507f",
+            "FileCRC": "f36e1c03",
+            "FileSize": 9747,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_textures.bundle",
+            "FileHash": "cc9918bb7726c56cce4ed79e108095c2",
+            "FileCRC": "6ef6583b",
+            "FileSize": 5730,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                3
+            ]
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_textures_common.bundle",
+            "FileHash": "50a08f679ae23746445f194fb71b804c",
+            "FileCRC": "f06f5d29",
+            "FileSize": 11789,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_uiwindows_uigamewindow.bundle",
+            "FileHash": "7ced252a46f265ba0a528e67597b469f",
+            "FileCRC": "118354ec",
+            "FileSize": 9544,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_uiwindows_uiloadingwindow.bundle",
+            "FileHash": "dfb0ead2bc3f2099d7cbb315871ef4ae",
+            "FileCRC": "370836c2",
+            "FileSize": 5574,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_uiwindows_uilobbywindow.bundle",
+            "FileHash": "6e47fc67cceb0420cdc61cb8e366af35",
+            "FileCRC": "0c89cbb8",
+            "FileSize": 10695,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_uiwindows_uiloginwindow.bundle",
+            "FileHash": "d3061e51d74d932f4bbe5c97ea93310b",
+            "FileCRC": "e9989595",
+            "FileSize": 14628,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_uiwindows_uimatchwaitwindow.bundle",
+            "FileHash": "ab65120d81afc19199fc79b4e17fc701",
+            "FileCRC": "3ae58343",
+            "FileSize": 5403,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_projectdir_bundles_uiwindows.bundle",
+            "FileHash": "8999e02da71d1eab7ec2ea3a11110643",
+            "FileCRC": "1d2e8d86",
+            "FileSize": 2778,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        }
+    ]
+}

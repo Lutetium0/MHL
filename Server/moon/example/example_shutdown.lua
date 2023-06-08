@@ -1,0 +1,18 @@
+local moon   = require("moon")
+
+print("Press Ctrl-C shutdown server")
+
+moon.shutdown(function( )
+    print("run once")
+    moon.async(function ()
+        moon.sleep(1000)
+        print("t1")
+        moon.sleep(1000)
+        print("t2")
+        moon.sleep(1000)
+        print("t3")
+        moon.sleep(1000)
+        print("t4")
+        moon.quit()
+    end)
+end)
