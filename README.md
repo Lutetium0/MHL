@@ -18,12 +18,15 @@ A light-weighted full stack game dev solution based on MotionFramework+HybridCLR
 # QuickStart
 
 Client: Open the unity scene GameLauncher under the dir: Assets/ProjectDir/ 
+
 客户端：使用Unity打开Client文件夹下的项目后运行Assets/ProjectDir/文件夹下的GameLauncher场景
 
 Server: Refer to https://github.com/sniper00/MoonDemo
+
 服务器：服务器文件夹内容与MoonDemo下的server文件夹内容一致，具体编译及启动流程参考https://github.com/sniper00/MoonDemo
 
 Verified environment:
+
 已验证过的前后端环境：
 
 Client environment:
